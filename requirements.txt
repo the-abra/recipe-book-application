@@ -1,0 +1,5 @@
+ # No external libraries needed.
+
+# This project only uses standard library modules (os, json, datetime)
+
+# Python 3.13.2 used
