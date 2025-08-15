@@ -1,0 +1,30 @@
+[
+  {
+    "name": "NewR",
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": "1",
+        "unit": ""
+      }
+    ],
+    "instructions": [
+      "Sample"
+    ],
+    "category": "Soup",
+    "is_favorite": false,
+    "prep_time": 1,
+    "cook_time": 1,
+    "servings": 1,
+    "difficulty": "Easy",
+    "tags": [
+      "Water Soup"
+    ],
+    "nutritional_info": null,
+    "rating": 5,
+    "notes": "",
+    "created_at": "2025-08-15T22:12:26.698939",
+    "updated_at": "2025-08-15T22:12:57.884785",
+    "recipe_id": "86532282-173f-4bff-946a-0d1ef2a9db37"
+  }
+]
